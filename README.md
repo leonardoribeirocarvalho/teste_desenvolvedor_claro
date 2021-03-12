@@ -21,6 +21,7 @@ Você vai criar uma aplicação de cadastro de usuários, com as seguintes funci
 - Usuários do nível básico não podem editar informações de outros usuários.
 - Só administradores podem dar o cargo de gerência para usuários.
 - Siga os padrões das PSRs.
+- Página no estilo dashboard com as quantidades de usuários cadastrados em cada setor, o total e a quantidade de usuários por nível de acesso (Ex. a quantidade de administradores, básicos e avançados).
 
 ## Modelo de dados
 
