@@ -8,7 +8,7 @@
     <?php include("Includes/headerComponents.php");?>
 	<title>Login CRUD</title>
 </head>
-<body style="background-image: url('imagens/bg-intranex.png')">
+<body style="background-image: url('imagens/bg.png')">
 	<div class="wrapper fadeInDown">
 		<div id="formContent" style="background-color: #6c6c6c;">
 			<?php include("Includes/alert.php"); ?>
